@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Matthias 'yolgie' Holzinger <yolgie@cnoize.at>"]
 
 [dependencies]
+rand="0.3.0"
