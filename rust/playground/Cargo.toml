@@ -1,0 +1,6 @@
+[package]
+name = "playground"
+version = "0.1.0"
+authors = ["Matthias 'yolgie' Holzinger <yolgie@cnoize.at>"]
+
+[dependencies]
